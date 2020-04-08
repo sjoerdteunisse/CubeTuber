@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adbd4478-3715-48eb-9d45-ed7408b006fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a4nvsjdytqIofmiAUsEIue9IpL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/RockPaperScissors - Voorbeeldoplossing les 6 (1)/RockPaperScissors - Voorbeeldoplossing les 6" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Data.GameEntities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Run" />
+      <module name="ViralGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ViralGame" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="viralgame [file:/C:/Users/Sjoerd/Downloads/ViralGame(1)/ViralGame/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ViralGame-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3172001252394" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3052130734" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adbd4478-3715-48eb-9d45-ed7408b006fd" name="Default Changelist" comment="" />
+      <created>1586003968095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586003968095</updated>
+      <workItem from="1586003971197" duration="5345000" />
+      <workItem from="1586035466870" duration="604000" />
+      <workItem from="1586082537655" duration="1542000" />
+      <workItem from="1586121016634" duration="719000" />
+      <workItem from="1586164189289" duration="35711000" />
+      <workItem from="1586248472672" duration="4415000" />
+      <workItem from="1586258555944" duration="2308000" />
+      <workItem from="1586267746981" duration="6687000" />
+      <workItem from="1586276109024" duration="3962000" />
+      <workItem from="1586288995352" duration="2985000" />
+      <workItem from="1586330761340" duration="4329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="419" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586248625143">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="280" y="357" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1586082896525" />
+    <state x="327" y="419" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586248625143" />
+    <state x="431" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586004046114">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="431" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1586004046114" />
+    <state x="1076" y="560" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586249738020">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1076" y="560" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1586249738020" />
+    <state width="427" height="466" key="DebuggerActiveHint" timestamp="1586268072966">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="427" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1586268072966" />
+    <state x="882" y="327" key="FileChooserDialogImpl" timestamp="1586192411126">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="756" y="279" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1586082590293" />
+    <state x="882" y="327" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1586192411126" />
+    <state width="2517" height="369" key="GridCell.Tab.0.bottom" timestamp="1586335066139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="215" key="GridCell.Tab.0.bottom/0.0.2194.1194/3840.0.2000.1293@0.0.2194.1194" timestamp="1586121735253" />
+    <state width="1443" height="328" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080287" />
+    <state width="2390" height="260" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586256903273" />
+    <state width="2517" height="369" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586335066139" />
+    <state width="2517" height="369" key="GridCell.Tab.0.center" timestamp="1586335066139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="215" key="GridCell.Tab.0.center/0.0.2194.1194/3840.0.2000.1293@0.0.2194.1194" timestamp="1586121735253" />
+    <state width="1443" height="328" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080287" />
+    <state width="2390" height="260" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586256903273" />
+    <state width="2517" height="369" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586335066139" />
+    <state width="2517" height="369" key="GridCell.Tab.0.left" timestamp="1586335066139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="215" key="GridCell.Tab.0.left/0.0.2194.1194/3840.0.2000.1293@0.0.2194.1194" timestamp="1586121735253" />
+    <state width="1443" height="328" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080287" />
+    <state width="2390" height="260" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586256903273" />
+    <state width="2517" height="369" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586335066139" />
+    <state width="2517" height="369" key="GridCell.Tab.0.right" timestamp="1586335066139">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2151" height="215" key="GridCell.Tab.0.right/0.0.2194.1194/3840.0.2000.1293@0.0.2194.1194" timestamp="1586121735253" />
+    <state width="1443" height="328" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080287" />
+    <state width="2390" height="260" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586256903273" />
+    <state width="2517" height="369" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586335066139" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom" timestamp="1586331317314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1443" height="328" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080288" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586331317314" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center" timestamp="1586331317314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1443" height="328" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080287" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586331317314" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left" timestamp="1586331317313">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1443" height="328" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080287" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586331317313" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right" timestamp="1586331317314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1443" height="328" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1586084080288" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586331317314" />
+    <state x="78" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1586330761454">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="67" y="231" key="com.intellij.ide.util.TipDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1586082537638" />
+    <state x="78" y="271" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586330761454" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1586193515629">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1586193515629" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1586291585850">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1586291585850" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1586260859222">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1586260859222" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/Data/GameEntities/TurnResult.scala</url>
+          <line>6</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="y" language="Scala" />
+        <watch expression="elemY" language="Scala" />
+        <watch expression="elemX" language="Scala" />
+        <watch expression="sizeLeft / 2" language="Scala" />
+        <watch expression="currentSize" language="Scala" />
+        <watch expression="boardSize" language="Scala" />
+        <watch expression="boardSize - currentSize" language="Scala" />
+        <watch expression="StaticAI.createStaticAI(Paradigm.FUNCTIONAL)" language="Scala" />
+        <watch expression="x &gt; 0" language="Scala" />
+        <watch expression="posY == depth - gameGUI.gridSize - 1" language="Scala" />
+        <watch expression="depth - gameGUI.gridSize" language="Scala" />
+        <watch expression="depth" language="Scala" />
+        <watch expression="posY == depth - gameGUI.gridSize - 1" language="Scala" />
+        <watch expression="gameGUI.gridSize - depth" language="Scala" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ViralGame$Run.ic" NAME="Run Coverage Results" MODIFIED="1586164918721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
